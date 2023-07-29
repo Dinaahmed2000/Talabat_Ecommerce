@@ -1,0 +1,135 @@
+D:\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\d\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\d\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\d\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\d\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\d\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\d\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign1\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign2\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign3\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign4\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign5\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign6\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Back_End\ASP.net core web APIs\assignments\assign7\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
